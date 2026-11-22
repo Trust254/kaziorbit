@@ -1,13 +1,11 @@
 {
-  "name": "KAZI LINKER",
+  "name": "KAZI LINKER - Jobs across Kenya",
   "short_name": "KAZI LINKER",
-  "description": "Money, connected. Qatar to Kenya transfer planning and money tools.",
+  "description": "Find jobs across all 47 counties of Kenya and request professional CV writing.",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#07110d",
   "theme_color": "#07110d",
-  "icons": [
-    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
-  ]
+  "icons": [{"src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable"}]
 }
